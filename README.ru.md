@@ -6,11 +6,11 @@
 
 | Навык | Для чего |
 |---|---|
-| [prospecting](skills/prospecting/) | Поиск и отбор потенциальных клиентов. |
-| [sales-enablement](skills/sales-enablement/) | Материалы для продаж: презентации, одностраничные предложения, возражения и сценарии демонстраций. |
-| [cold-email](skills/cold-email/) | Холодные B2B-письма и последующие касания. |
+| [prospecting](skills/prospecting/) | Поиск и отбор потенциальных клиентов. + |
+| [sales-enablement](skills/sales-enablement/) | Материалы для продаж: презентации, одностраничные предложения, возражения и сценарии демонстраций. +|
+| [cold-email](skills/cold-email/) | Холодные B2B-письма и последующие касания. +|
 | [customer-research](skills/customer-research/) | Проведение и анализ исследований клиентов. |
-| [revops](skills/revops/) | Работа с лидами, воронкой и передачей клиентов между маркетингом и продажами. |
+| [revops](skills/revops/) | Работа с лидами, воронкой и передачей клиентов между маркетингом и продажами. +|
 | [competitor-profiling](skills/competitor-profiling/) | Исследование и составление профилей конкурентов по их сайтам. |
 | [competitors](skills/competitors/) | Сравнительные страницы о конкурентах и альтернативах для покупателей. |
 | [reverse-engineer-marketing](skills/reverse-engineer-marketing/) | Разбор маркетинговых подходов и роста другой компании. |
